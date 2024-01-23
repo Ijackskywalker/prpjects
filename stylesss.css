@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #122358;
+    font-size: 60px;
+}
+table {
+    font-family: sans-serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 10px;
+
+    color: #122358;
+    border: 16px solid #7FFFD4;
+    border-radius: 20px;
+}
+th {
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+td {
+    background: #40E0D0;
+    padding: 30px;
+    border-radius: 35px;
+    font-size: 30px;
+}
+body {
+    background-image: linear-gradient(to left, rgb(46, 195, 155), rgb(109, 201, 224));
+}
+.b1 {
+    min-width: 100px;
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #40E0D0;
+    padding: 8px 16px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .b1:hover {
+    background: #1d49aa;
+  }
+  
+  .b1:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  .button {
+    background-color:#4676d7;
+    border: none;
+    border-radius: 5px;
+    color: #40E0D0;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+  
+    .button:hover {
+        background: #1d49aa;
+      }
+      
+      .button:focus {
+        outline: none;
+        box-shadow: 0 0 0 4px #cbd6ee;
+      }
+ h3 {
+    font-weight: bold;
+    color: 1d49aa;
+    
+
+ }
